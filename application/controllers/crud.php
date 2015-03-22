@@ -11,7 +11,7 @@ public function __construct(){
 	$this->load->model('crud_model', 'crud');
 	$this->load->library('table');
 
-
+//testando
 }
 
 public function index(){
